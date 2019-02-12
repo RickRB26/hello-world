@@ -1,2 +1,5 @@
 # hello-world
-this was mandetory. to learn how to work with GitHub
+
+hi,
+
+still doing the mandetory stuff...
